@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davimontiel.github.io/jor-vid-dist/sitemap.xml

@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "timestamp": 1791397009132,
+  "index": "/jor-vid-dist/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/jor-vid-dist/chunk-Bu1klHPS.js",
+        "/jor-vid-dist/chunk-CM1AVxRp.js",
+        "/jor-vid-dist/chunk-Ck-3KhlL.js",
+        "/jor-vid-dist/favicon.svg",
+        "/jor-vid-dist/index.csr.html",
+        "/jor-vid-dist/index.html",
+        "/jor-vid-dist/main-SYEAF6VM.js",
+        "/jor-vid-dist/site.webmanifest",
+        "/jor-vid-dist/styles-H55FHFJ7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/jor-vid-dist/apple-touch-icon.png",
+        "/jor-vid-dist/favicon-32.png",
+        "/jor-vid-dist/media/archivo-latin-ext-wdth-normal-GPGIT4GY.woff2",
+        "/jor-vid-dist/media/archivo-latin-wdth-normal-R3FITQA7.woff2",
+        "/jor-vid-dist/media/archivo-vietnamese-wdth-normal-JICEILHD.woff2",
+        "/jor-vid-dist/media/martian-mono-cyrillic-ext-standard-normal-EBS7SLI5.woff2",
+        "/jor-vid-dist/media/martian-mono-cyrillic-standard-normal-KP4IM77F.woff2",
+        "/jor-vid-dist/media/martian-mono-latin-ext-standard-normal-IAPDDWN4.woff2",
+        "/jor-vid-dist/media/martian-mono-latin-standard-normal-5B7MZNUA.woff2",
+        "/jor-vid-dist/og.png",
+        "/jor-vid-dist/projects/restaurant-1.webp",
+        "/jor-vid-dist/projects/restaurant-2.webp",
+        "/jor-vid-dist/projects/restaurant-3.webp",
+        "/jor-vid-dist/projects/restaurant-4.webp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/jor-vid-dist/apple-touch-icon.png": "bdcacf09e6d1ca57b81599d6d332b41d7a1eaf22",
+    "/jor-vid-dist/chunk-Bu1klHPS.js": "ff9c95cd5a99baebea91b97fd5b88a70716dff31",
+    "/jor-vid-dist/chunk-CM1AVxRp.js": "cf33f95a1fb647b219d855f068e238848013420c",
+    "/jor-vid-dist/chunk-Ck-3KhlL.js": "a7a127b50ea135e5a0625216b52c488b57250a08",
+    "/jor-vid-dist/favicon-32.png": "af1bc658db7921673c177de0d4f4307a8f883765",
+    "/jor-vid-dist/favicon.svg": "d452ae58e74c1af9e363472fbc18a2eed7e97975",
+    "/jor-vid-dist/index.csr.html": "8a4255798e5a07ec69ceacc8148959ffca38b0d3",
+    "/jor-vid-dist/index.html": "34e0fa81deaaca7d7440e17736eff2209f9b244a",
+    "/jor-vid-dist/main-SYEAF6VM.js": "e7806674211dab8217c64ac8f4344d6132e16eb1",
+    "/jor-vid-dist/media/archivo-latin-ext-wdth-normal-GPGIT4GY.woff2": "837705d412798418c8b82dbfa62a8af2e9e83daf",
+    "/jor-vid-dist/media/archivo-latin-wdth-normal-R3FITQA7.woff2": "258a93fe93ae4cd277dde1da554e5cc2c7728f2c",
+    "/jor-vid-dist/media/archivo-vietnamese-wdth-normal-JICEILHD.woff2": "74011f871de52d0fac98636679e03ea145a61ace",
+    "/jor-vid-dist/media/martian-mono-cyrillic-ext-standard-normal-EBS7SLI5.woff2": "41a7bc0061dd80e34e88d755386ea5c8bf1bdb8d",
+    "/jor-vid-dist/media/martian-mono-cyrillic-standard-normal-KP4IM77F.woff2": "928f5e4e42fa7cc516cb089664fd5187edb3065e",
+    "/jor-vid-dist/media/martian-mono-latin-ext-standard-normal-IAPDDWN4.woff2": "3d64f03a459052456a75521824b4288d1fe4a863",
+    "/jor-vid-dist/media/martian-mono-latin-standard-normal-5B7MZNUA.woff2": "136b23ee8e027b717cdbe67c30f3d07b20daed3b",
+    "/jor-vid-dist/og.png": "b17030275b98b5e9aadcb4cbb26e7dcb023882a8",
+    "/jor-vid-dist/projects/restaurant-1.webp": "38b984ff8a49d2055663c2e7e848da9830e16e03",
+    "/jor-vid-dist/projects/restaurant-2.webp": "2e2617d9ecae1a7e63d2a677316b5704b39cb7b2",
+    "/jor-vid-dist/projects/restaurant-3.webp": "13f0c8b3f9a6a98dd3659cc2fbdb6f01904a3c45",
+    "/jor-vid-dist/projects/restaurant-4.webp": "6d2da6acdefd4d95424c99f2ec53d266faad5d34",
+    "/jor-vid-dist/site.webmanifest": "0da3c1f30c2a703aa24b9deb01e130c9889fffed",
+    "/jor-vid-dist/styles-H55FHFJ7.css": "823ac34e2849659a9b76354bb4faebe7748c8a9e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
